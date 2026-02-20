@@ -21,6 +21,7 @@ and control the mouse cursor.
    python airmouse.py
 
 ## Demo
-<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/8e0628f8-3d76-4fe1-8a84-2ef826f91156" />
-
-<img width="1282" height="1257" alt="image" src="https://github.com/user-attachments/assets/20114246-139d-4032-add9-dd57b4c67809" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8e0628f8-3d76-4fe1-8a84-2ef826f91156" width="300">
+  <img src="https://github.com/user-attachments/assets/20114246-139d-4032-add9-dd57b4c67809" width="300">
+</p>
