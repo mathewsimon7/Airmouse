@@ -14,10 +14,11 @@ and control the mouse cursor.
 - MediaPipe
 
 ## How to Run
-1. Install Python
+1. Install Python 3.14+
 2. Install dependencies:
-   pip install opencv-python mediapipe pyautogui
-3. Run:
+   pip install opencv-python mediapipe pyautogui numpy
+3. Ensure `hand_landmarker.task` is in the project directory.
+4. Run:
    python airmouse.py
 
 ## Demo
